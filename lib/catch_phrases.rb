@@ -5,6 +5,7 @@ def mario
 end
 
 def toadstool
-  puts "Thank you, Mario!"
+  thanks = "Thank you, Mario!"
+  puts thanks
   puts status
 end
