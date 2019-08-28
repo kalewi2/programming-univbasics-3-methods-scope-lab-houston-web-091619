@@ -13,7 +13,7 @@ def link
   puts take_this
 end
 
-def any_phrase
-  roll = "Do A Barrel Roll!"
-  puts roll
+def any_phrase(phrase)
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end
